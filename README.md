@@ -12,4 +12,4 @@ Studies for the number of events for different pT(H)
 Almost all the work I've done during my intership
 
 5 - First mass scans with 2016 datas : 
-Made for 3 pT(H) intervals (85-125 GeV, 125-200 GeV, 200-350 GeV). At the end, "bkg_0_xxxx" means that we multiplied the background of 2016 by 0-xxxx to simulate the scan we could have with the real background. 
+Made for 3 pT(H) intervals (85-125 GeV, 125-200 GeV, 200-350 GeV). At the end, "bkg_0_xxxx" means that we multiplied the background of 2016 by 0,xxxx to simulate the scan we could have with the real background. 
